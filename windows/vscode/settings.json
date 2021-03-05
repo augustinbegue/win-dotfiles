@@ -1,0 +1,31 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.fontFamily": "Cascadia Code PL",
+    "diffEditor.codeLens": true,
+    "editor.fontLigatures": true,
+    "python.languageServer": "Pylance",
+    "git.autofetch": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.confirmSync": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.codeLensFontFamily": "Cascadia Code PL",
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "workbench.startupEditor": "readme",
+    "latex-workshop.view.pdf.viewer": "browser",
+    "jupyter.textOutputLimit": 0,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "git.enableSmartCommit": true,
+    "cSpell.userWords": [
+        "firestore",
+        "goulag"
+    ],
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.inlineHints.fontFamily": "Cascadia Code PL",
+    "terminal.integrated.fontFamily": "CaskaydiaCove NF",
+    "[jsonc]": {
+        "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+    },
+}
